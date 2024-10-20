@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 276.71 276.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #283578;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #283578;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <g id="BG">
+    <circle class="cls-2" cx="138.35" cy="138.35" r="138.35" transform="translate(-28.09 241.22) rotate(-76.72)"/>
+    <circle class="cls-1" cx="138.35" cy="138.35" r="97.81" transform="translate(-28.09 241.22) rotate(-76.72)"/>
+  </g>
+  <g id="Big_hand" data-name="Big hand">
+    <line class="cls-3" x1="138.35" y1="138.35" x2="138.35" y2="215.13"/>
+  </g>
+  <g id="Small_Hand" data-name="Small Hand">
+    <line class="cls-3" x1="198.03" y1="138.35" x2="138.35" y2="138.35"/>
+  </g>
+</svg>
